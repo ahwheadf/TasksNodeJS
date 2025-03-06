@@ -1,0 +1,25 @@
+{
+	"locale": "en",
+	"token": {
+		"failed": "Token not transferred",
+		"saved": "Token saved",
+		"incorrect": "Incorrect token",
+		"notSpecified": "API key is not set, set it with -t [API_KEY]"
+	},
+	"city": {
+		"handed": "City(s) not transmitted",
+		"saved": "City(s) retained",
+		"incorrect": "Incorrect city(s)",
+		"handedOver3": "A maximum of 3 cities can be handed over"
+	},
+	"lang": "Language retained",
+	"help": "No parameters - weather display\n-s [CITY] to set the city | [CITY 0, CITY 1] of multiple cities\n-h for help\n-t [API_KEY] for token\n-l [LANG] to change the language",
+	"weather": {
+      "title": "Weather in",
+      "temp": "Temperature:",
+	  "feelsLike": "Feels like",
+      "humidity": "Humidity:",
+      "wind": "Wind speed:"
+    }
+	
+}

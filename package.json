@@ -1,0 +1,23 @@
+{
+  "name": "tasksnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ahwheadf/TasksNodeJS#readme",
+  "bugs": {
+    "url": "https://github.com/ahwheadf/TasksNodeJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahwheadf/TasksNodeJS.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "4-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-notifier": "^10.0.1"
+  }
+}
